@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Axion Guard 🛡️
 
 **Plataforma de Segurança e Governança para Sistemas de IA**
@@ -309,3 +310,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 *Protegendo o futuro da Inteligência Artificial, uma análise por vez.*
 
+=======
+# ai-security-behavior-analyzer
+First open-source AI security tool to detect instruction leaks and malicious behavior patterns
+>>>>>>> 7a956e35a35d9ae24905e21ba85b1804beecd193
