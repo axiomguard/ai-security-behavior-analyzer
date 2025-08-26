@@ -314,3 +314,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 # ai-security-behavior-analyzer
 First open-source AI security tool to detect instruction leaks and malicious behavior patterns
 >>>>>>> 7a956e35a35d9ae24905e21ba85b1804beecd193
+
