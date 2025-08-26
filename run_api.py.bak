@@ -7,7 +7,7 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from axiomguard.api.app import create_app
+from axion_guard.api.app import create_app
 
 
 def main():
